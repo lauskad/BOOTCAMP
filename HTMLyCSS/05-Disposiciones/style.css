@@ -3,8 +3,11 @@
     margin: 0%;
 }
 
-img #flexdiv{
-    display: flexbox;
+img#flexdiv {
     width: 300px;
-    
+}
+
+#flexdiv{
+    display: flexbox;
+    flex-wrap: wrap;
 }
